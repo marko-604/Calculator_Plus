@@ -23,11 +23,10 @@ A fully functional GUI-based calculator built using Java AWT. This project inclu
 
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/marko-mat/Calculator_plus.git
+   git clone https://github.com/marko-604/Calculator_plus.git
    ```  
 2. Navigate to the project directory:  
    ```sh
-   cd Calculator_plus
    cd src
    ```  
 3. Compile and run the application:  
